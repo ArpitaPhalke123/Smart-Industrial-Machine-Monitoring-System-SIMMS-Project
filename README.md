@@ -1,0 +1,2 @@
+Industries using machinery often struggle to keep them running smoothly. Traditional monitoring systems don't always provide timely updates, leading to inefficiencies and higher costs. 
+Smart monitoring systems use modern technology to collect real-time data. In our project, we use an Arduino Uno and Bluetooth HC-05 to connect machines to a central system. It then displays the number of completed cycles on a Bluetooth terminal and alerts operators with a buzzer when action is needed. This approach helps improve machine monitoring and overall industrial efficiency.
